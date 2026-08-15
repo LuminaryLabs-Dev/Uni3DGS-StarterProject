@@ -1,0 +1,27 @@
+{
+  "name": "Uni3DGS.Starter.EditMode.Tests",
+  "rootNamespace": "Uni3DGS.Starter.Tests",
+  "references": [
+    "Uni3DGS.Starter",
+    "Uni3DGS.Starter.Editor",
+    "Uni3DGS.Runtime",
+    "Unity.RenderPipelines.Core.Runtime",
+    "Unity.RenderPipelines.Universal.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

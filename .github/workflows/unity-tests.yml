@@ -1,0 +1,15 @@
+name: unity-tests
+
+on:
+  workflow_dispatch:
+
+jobs:
+  unity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unity test execution contract
+        run: |
+          echo "This workflow is intentionally manual until a Unity license/runner is configured."
+          echo "Required editor: 6000.0.58f2"
+          echo "Run EditMode and PlayMode through your licensed Unity CI runner."

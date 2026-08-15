@@ -1,0 +1,21 @@
+{
+  "name": "Uni3DGS.Starter.Editor",
+  "rootNamespace": "Uni3DGS.Starter.Editor",
+  "references": [
+    "Uni3DGS.Starter",
+    "Uni3DGS.Runtime",
+    "Unity.RenderPipelines.Core.Runtime",
+    "Unity.RenderPipelines.Universal.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

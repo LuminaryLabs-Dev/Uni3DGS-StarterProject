@@ -1,0 +1,22 @@
+{
+  "name": "Uni3DGS.Starter.PlayMode.Tests",
+  "rootNamespace": "Uni3DGS.Starter.Tests",
+  "references": [
+    "Uni3DGS.Starter",
+    "Uni3DGS.Runtime"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

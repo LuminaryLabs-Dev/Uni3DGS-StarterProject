@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "com.luminarylabs.uni3dgs": "https://github.com/LuminaryLabs-Dev/Uni3DGS.git?path=/Packages/Uni3DGS#47a691bec3f00c8c0801c692f9ff76b628a5776c",
+    "com.unity.render-pipelines.universal": "17.0.4",
+    "com.unity.test-framework": "1.4.6"
+  },
+  "testables": [
+    "com.luminarylabs.uni3dgs"
+  ]
+}
